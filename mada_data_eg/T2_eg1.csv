@@ -1,0 +1,376 @@
+Player 1 Name: Player1
+Player 2 Name: Player2
+Player 3 Name: Player3
+Player 4 Name: Player4
+Player 1 HHID: SAN37
+Player 2 HHID: SAN39
+Player 3 HHID: SAN38
+Player 4 HHID: SAN40
+
+Game Tag: T2
+Farm X: 3
+Farm Y: 3
+Number of Rounds: 8
+Farm Yield High: 12
+Farm Yield Low: 10
+Forest Yield: 0
+Max Yield High: 15
+Max Yield High: 15
+Max Yield Low: 12
+Max Farm: 9
+Forest Yield Bump: 1
+Forest Restore Bump: 0
+Forest Yield Neighborhood: 2
+Turns to Deplete: 2
+Turns to Restore : 2
+Player Turn Sequence Mode : 0
+Agg Bonus: 1
+Forest Subsidy : 4
+Restored Subsidy Flag: 0
+Show Moves: atEndTurn
+
+Land Ownership:
+
+ "([4])" "([4])" "([4])" "([3])" "([3])"([3])
+ "([4])" "([4])" "([4])" "([3])" "([3])"([3])
+ "([4])" "([4])" "([4])" "([3])" "([3])"([3])
+ "([1])" "([1])" "([1])" "([2])" "([2])"([2])
+ "([1])" "([1])" "([1])" "([2])" "([2])"([2])
+ "([1])" "([1])" "([1])" "([2])" "([2])"([2])
+
+Game Start Time: 09:12:48.030 AM 04-Sep-2018
+
+Round 1 Choices
+
+ 0 0 0 1 1 0
+ 1 1 0 1 1 0
+ 1 1 1 1 0 0
+ 1 1 1 1 1 1
+ 0 1 1 0 0 0
+ 0 0 0 0 0 0
+
+Round 1 Users
+
+ 0 0 0 3 3 0
+ 4 4 0 3 3 0
+ 4 4 4 3 -99 0
+ 1 1 1 2 2 2
+ 0 1 1 0 0 0
+ 0 0 0 0 0 0
+
+Round 1 Taps
+
+ 0 0 0 5 3 0
+ 1 1 0 3 3 0
+ 1 1 1 3 2 0
+ 1 1 1 1 1 1
+ 0 1 1 0 0 0
+ 0 0 0 0 0 0
+
+Player Turn Order 1: [1 1 1 1]
+Player 1 Confirm Time Round 1: 09:16:51.844 AM 04-Sep-2018
+Player 2 Confirm Time Round 1: 09:16:29.938 AM 04-Sep-2018
+Player 3 Confirm Time Round 1: 09:17:01.812 AM 04-Sep-2018
+Player 4 Confirm Time Round 1: 09:16:47.094 AM 04-Sep-2018
+
+Round 1 Scoring Summary:
+
+Player 1: Yields 60, Bonuses 16, ES Bump 15, Round Score 91, Total Score 91
+Player 2: Yields 36, Bonuses 24, ES Bump 9, Round Score 69, Total Score 69
+Player 3: Yields 60, Bonuses 16, ES Bump 15, Round Score 91, Total Score 91
+Player 4: Yields 60, Bonuses 16, ES Bump 15, Round Score 91, Total Score 91
+
+Round 2 Start Time: 09:17:21.952 AM 04-Sep-2018
+
+Round 2 Choices
+
+ 0 0 0 1 1 0
+ 1 1 1 1 1 0
+ 1 1 1 1 1 1
+ 1 1 1 1 1 1
+ 1 1 1 1 1 0
+ 1 1 1 0 0 0
+
+Round 2 Users
+
+ 0 0 0 3 3 0
+ 4 4 4 3 3 0
+ 4 4 4 3 3 3
+ 1 1 1 2 2 2
+ 1 1 1 2 2 0
+ 1 1 1 0 0 0
+
+Round 2 Taps
+
+ 0 0 0 0 0 0
+ 2 2 1 0 0 0
+ 2 2 2 0 1 1
+ 2 0 0 0 0 0
+ 1 0 0 1 5 0
+ 1 1 3 0 0 0
+
+Player Turn Order 2: [1 1 1 1]
+Player 1 Confirm Time Round 2: 09:18:12.203 AM 04-Sep-2018
+Player 2 Confirm Time Round 2: 09:17:39.374 AM 04-Sep-2018
+Player 3 Confirm Time Round 2: 09:17:56.172 AM 04-Sep-2018
+Player 4 Confirm Time Round 2: 09:17:50.671 AM 04-Sep-2018
+
+Round 2 Scoring Summary:
+
+Player 1: Yields 108, Bonuses 0, ES Bump 9, Round Score 117, Total Score 208
+Player 2: Yields 60, Bonuses 16, ES Bump 15, Round Score 91, Total Score 160
+Player 3: Yields 84, Bonuses 8, ES Bump 21, Round Score 113, Total Score 204
+Player 4: Yields 72, Bonuses 12, ES Bump 18, Round Score 102, Total Score 193
+
+Round 3 Start Time: 09:20:37.661 AM 04-Sep-2018
+
+Round 3 Choices
+
+ 0 0 0 1 1 0
+ 1 1 0 1 1 1
+ 1 1 1 1 1 1
+ 1 1 0 1 1 1
+ 1 1 0 1 1 1
+ 1 0 0 1 1 0
+
+Round 3 Users
+
+ 0 0 0 3 3 0
+ 4 4 -99 3 3 3
+ 4 4 4 3 3 3
+ 1 1 -99 2 2 2
+ 1 1 -99 2 2 2
+ 1 -99 -99 2 2 0
+
+Round 3 Taps
+
+ 0 0 0 2 2 0
+ 0 0 1 0 0 1
+ 2 2 2 0 0 0
+ 2 2 1 0 0 0
+ 2 2 1 0 0 1
+ 6 1 1 1 1 0
+
+Player Turn Order 3: [1 1 1 1]
+Player 1 Confirm Time Round 3: 09:22:00.288 AM 04-Sep-2018
+Player 2 Confirm Time Round 3: 09:20:47.959 AM 04-Sep-2018
+Player 3 Confirm Time Round 3: 09:21:33.304 AM 04-Sep-2018
+Player 4 Confirm Time Round 3: 09:21:12.617 AM 04-Sep-2018
+
+Round 3 Scoring Summary:
+
+Player 1: Yields 54, Bonuses 16, ES Bump 12, Round Score 82, Total Score 290
+Player 2: Yields 90, Bonuses 4, ES Bump 18, Round Score 112, Total Score 272
+Player 3: Yields 86, Bonuses 4, ES Bump 15, Round Score 105, Total Score 309
+Player 4: Yields 50, Bonuses 16, ES Bump 10, Round Score 76, Total Score 269
+
+Round 4 Start Time: 09:22:53.010 AM 04-Sep-2018
+
+Round 4 Choices
+
+ 0 0 1 1 1 0
+ 0 1 1 1 1 1
+ 1 1 1 1 1 1
+ 1 1 0 1 1 1
+ 1 1 1 0 1 1
+ 1 1 1 0 0 1
+
+Round 4 Users
+
+ 0 0 4 3 3 0
+ -99 4 4 3 3 3
+ 4 4 4 3 3 3
+ 1 1 -99 2 2 2
+ 1 1 1 -99 2 2
+ 1 1 1 -99 -99 2
+
+Round 4 Taps
+
+ 0 0 7 0 0 0
+ 1 2 1 0 2 2
+ 2 2 2 2 2 2
+ 0 0 0 0 0 0
+ 0 0 1 3 0 0
+ 0 1 1 1 3 1
+
+Player Turn Order 4: [1 1 1 1]
+Player 1 Confirm Time Round 4: 09:23:28.744 AM 04-Sep-2018
+Player 2 Confirm Time Round 4: 09:23:23.291 AM 04-Sep-2018
+Player 3 Confirm Time Round 4: 09:23:28.338 AM 04-Sep-2018
+Player 4 Confirm Time Round 4: 09:23:31.650 AM 04-Sep-2018
+
+Round 4 Scoring Summary:
+
+Player 1: Yields 84, Bonuses 4, ES Bump 16, Round Score 104, Total Score 394
+Player 2: Yields 64, Bonuses 12, ES Bump 14, Round Score 90, Total Score 362
+Player 3: Yields 82, Bonuses 4, ES Bump 14, Round Score 100, Total Score 409
+Player 4: Yields 64, Bonuses 12, ES Bump 14, Round Score 90, Total Score 359
+
+Round 5 Start Time: 09:23:47.416 AM 04-Sep-2018
+
+Round 5 Choices
+
+ 0 0 0 1 1 1
+ 1 1 1 1 1 1
+ 1 1 1 1 1 1
+ 1 1 1 1 1 1
+ 1 1 1 0 0 0
+ 0 0 0 0 0 1
+
+Round 5 Users
+
+ 0 0 -99 3 3 3
+ 4 4 4 3 3 3
+ 4 4 4 3 3 3
+ 1 1 1 2 2 2
+ 1 1 1 -99 -99 -99
+ -99 -99 -99 -99 -99 2
+
+Round 5 Taps
+
+ 0 0 1 2 2 1
+ 1 0 0 2 0 0
+ 2 0 0 0 0 0
+ 0 0 1 0 0 0
+ 0 0 0 0 1 3
+ 1 1 1 0 0 0
+
+Player Turn Order 5: [1 1 1 1]
+Player 1 Confirm Time Round 5: 09:24:28.743 AM 04-Sep-2018
+Player 2 Confirm Time Round 5: 09:24:12.681 AM 04-Sep-2018
+Player 3 Confirm Time Round 5: 09:24:20.493 AM 04-Sep-2018
+Player 4 Confirm Time Round 5: 09:24:10.665 AM 04-Sep-2018
+
+Round 5 Scoring Summary:
+
+Player 1: Yields 62, Bonuses 12, ES Bump 13, Round Score 87, Total Score 481
+Player 2: Yields 42, Bonuses 20, ES Bump 9, Round Score 71, Total Score 433
+Player 3: Yields 92, Bonuses 0, ES Bump 12, Round Score 104, Total Score 513
+Player 4: Yields 62, Bonuses 12, ES Bump 13, Round Score 87, Total Score 446
+
+Round 6 Start Time: 09:26:08.476 AM 04-Sep-2018
+
+Round 6 Choices
+
+ 0 0 0 1 1 1
+ 0 1 1 1 1 1
+ 1 1 1 1 1 1
+ 0 0 0 0 0 0
+ 1 1 1 0 0 0
+ 1 1 1 0 0 1
+
+Round 6 Users
+
+ 0 0 -99 3 3 3
+ -99 4 4 3 3 3
+ 4 4 4 3 3 3
+ -99 -99 -99 -99 -99 -99
+ 1 1 1 -99 -99 -99
+ 1 1 1 -99 -99 2
+
+Round 6 Taps
+
+ 0 0 0 2 2 0
+ 1 2 2 2 2 0
+ 2 2 2 0 0 0
+ 1 1 1 1 1 1
+ 0 0 0 0 0 0
+ 1 1 3 0 0 0
+
+Player Turn Order 6: [1 1 1 1]
+Player 1 Confirm Time Round 6: 09:26:41.163 AM 04-Sep-2018
+Player 2 Confirm Time Round 6: 09:26:24.476 AM 04-Sep-2018
+Player 3 Confirm Time Round 6: 09:26:35.319 AM 04-Sep-2018
+Player 4 Confirm Time Round 6: 09:26:29.960 AM 04-Sep-2018
+
+Round 6 Scoring Summary:
+
+Player 1: Yields 64, Bonuses 12, ES Bump 14, Round Score 90, Total Score 571
+Player 2: Yields 10, Bonuses 32, ES Bump 2, Round Score 44, Total Score 477
+Player 3: Yields 92, Bonuses 0, ES Bump 15, Round Score 107, Total Score 620
+Player 4: Yields 50, Bonuses 16, ES Bump 10, Round Score 76, Total Score 522
+
+Round 7 Start Time: 09:28:55.761 AM 04-Sep-2018
+
+Round 7 Choices
+
+ 0 0 0 1 1 0
+ 1 1 1 1 1 1
+ 1 1 1 1 1 1
+ 0 0 1 0 0 0
+ 0 0 1 1 0 0
+ 1 1 1 1 1 0
+
+Round 7 Users
+
+ 0 0 -99 3 3 -99
+ 4 4 4 3 3 3
+ 4 4 4 3 3 3
+ -99 -99 1 -99 -99 -99
+ -99 -99 1 2 -99 -99
+ 1 1 1 2 2 -99
+
+Round 7 Taps
+
+ 0 0 0 0 0 1
+ 13 8 6 0 0 2
+ 6 6 8 0 2 2
+ 0 0 1 0 0 0
+ 1 1 8 1 0 0
+ 4 0 0 1 1 1
+
+Player Turn Order 7: [1 1 1 1]
+Player 1 Confirm Time Round 7: 09:30:47.262 AM 04-Sep-2018
+Player 2 Confirm Time Round 7: 09:29:14.387 AM 04-Sep-2018
+Player 3 Confirm Time Round 7: 09:29:16.637 AM 04-Sep-2018
+Player 4 Confirm Time Round 7: 09:31:12.436 AM 04-Sep-2018
+
+Round 7 Scoring Summary:
+
+Player 1: Yields 56, Bonuses 16, ES Bump 13, Round Score 85, Total Score 656
+Player 2: Yields 36, Bonuses 24, ES Bump 9, Round Score 69, Total Score 546
+Player 3: Yields 80, Bonuses 4, ES Bump 16, Round Score 100, Total Score 720
+Player 4: Yields 60, Bonuses 12, ES Bump 12, Round Score 84, Total Score 606
+
+Round 8 Start Time: 09:31:31.922 AM 04-Sep-2018
+
+Round 8 Choices
+
+ 1 0 0 1 1 0
+ 1 1 0 1 1 1
+ 1 1 1 1 0 1
+ 1 1 1 0 0 1
+ 0 0 1 1 1 1
+ 1 1 1 1 1 0
+
+Round 8 Users
+
+ 4 0 -99 3 3 -99
+ 4 4 -99 3 3 3
+ 4 4 4 3 -99 3
+ 1 1 1 -99 -99 2
+ -99 -99 1 2 2 2
+ 1 1 1 2 2 -99
+
+Round 8 Taps
+
+ 1 0 0 2 2 0
+ 0 0 1 2 2 0
+ 0 0 0 2 1 0
+ 1 1 0 0 0 1
+ 0 0 0 0 3 1
+ 2 0 0 0 0 0
+
+Player Turn Order 8: [1 1 1 1]
+Player 1 Confirm Time Round 8: 09:32:16.735 AM 04-Sep-2018
+Player 2 Confirm Time Round 8: 09:31:47.546 AM 04-Sep-2018
+Player 3 Confirm Time Round 8: 09:32:02.985 AM 04-Sep-2018
+Player 4 Confirm Time Round 8: 09:31:58.782 AM 04-Sep-2018
+
+Round 8 Scoring Summary:
+
+Player 1: Yields 76, Bonuses 8, ES Bump 17, Round Score 101, Total Score 757
+Player 2: Yields 72, Bonuses 12, ES Bump 18, Round Score 102, Total Score 648
+Player 3: Yields 70, Bonuses 8, ES Bump 14, Round Score 92, Total Score 812
+Player 4: Yields 62, Bonuses 12, ES Bump 13, Round Score 87, Total Score 693
+
